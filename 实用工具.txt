@@ -1,0 +1,58 @@
+实用工具
+
+aria2 : 多协议下载工具
+atuin : 命令行历史增强工具
+ascii-image-converter : 图片转 ascii 艺术字
+asciinema : 终端录屏工具
+bc : 计算器
+bleachbit : 系统清理工具
+broot : 终端文件浏览器
+calcurse : 日历日程
+carbonyl : 终端浏览器
+cmatrix : 绿字滚屏
+column : 格式化制表工具
+cowsay : 会说话的牛
+cpipes : 好看的管道
+cpufetch : CPU 信息查看工具
+difftastic : 结构化代码比较工具
+dooit : todo 备忘录
+dra : github release 下载工具
+duf : 磁盘使用查看工具
+dust : 磁盘使用查看工具
+fastfetch : 系统信息查看工具
+fd : 文件查找工具
+frpc : 内网穿透客户端
+gifski : 将视频转换为高质量 gif
+gitnr : .gitignore 生成工具
+grex : 正则表达式生成工具
+hexyl : 十六进制查看工具
+jq : JSON 处理工具
+just : 运行脚本工具
+koji : git commit 生成工具
+lazygit : git 命令简化工具
+lolcat : 彩色 cat
+lynx : 终端浏览器
+lsd : 美化 ls
+mangohud : 游戏性能监视工具
+mpv : 多媒体播放器
+ncdu : 磁盘使用分析工具
+neovide : neovim 图形界面
+omm : 任务管理工具
+pacman-contrib : pacman 辅助工具
+prismlauncher : Minecraft 启动器
+python-pyclip : 剪贴板工具
+rename : 批量重命名工具
+rexi : python 编写的正则匹配工具
+smartmontools : 硬盘健康检测工具
+spf(superfile) : 类似 yazi 的文件管理器
+starship : 跨 shell 的提示符
+supergfxctl : GPU 性能模式切换工具
+switcheroo-control : 笔记本显卡切换工具
+thefuck : 命令纠正工具
+time : 命令计时工具
+tmux : 终端复用工具
+ttyper : rust 构建的打字练习工具
+uget : 下载工具
+wev : 按键读取工具
+win2xcur : 将 Windows 光标主题转换为 X 光标主题
+zoxide : cd 增强工具
